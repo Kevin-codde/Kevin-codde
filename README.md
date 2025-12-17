@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Andrés Bejarano 🇨🇴</h1>
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocL8f1jh1fCZePsCRv0730oyWAr_1hj3sz0XGcQp3w48iHNnR4Q=s288-c-no"
-       width="130" height="130" style="border-radius:50%" />
-</p>
-
-<h3 align="center">Systems Engineering Student | Aspiring Web Developer</h3>
-
-<p align="center">
-  <img src="https://www.univalle.edu.co/images/Univalle/70_Rojo.jpg" width="120"/>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
